@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-LA3EANC</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkKVTXp1UPE+55g6+3s3jCQAAAAACAAAAAAAQZgAAAAEAACAAAAD7SEgy3WHnuGHFnypRlewKZRhXv1uhuvjOTFlbqwW4+wAAAAAOgAAAAAIAACAAAAD86jtbU5dkBs/2gnAuJM71AU4yZpepq2rvs/TQyVArPpAAAAD/IdE0K40iMflqUSh/7w7gGQApW3LI186FHZ/ZrthapK4m4UP09aYGMrypeIDb//vpKFv99b2ynT4dOpfDqvAqtpNz222n79uxgaaoYHteXeXHGOJ5XgUebrgzfG+8setqpamV1XreySnwDuSGr73DUyZIeJt1qf6falU/0R+EFvnvYZno4QeOI/HiFU34dvNAAAAADL5gI2HaTGw9P/Ebvdnn/OpVGMB9aWXv3PYiE7jO/3w9anAez1lN5Y50NXXcQ7d8/B67s7olQurY0XZ/PG90eg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkKVTXp1UPE+55g6+3s3jCQAAAAACAAAAAAAQZgAAAAEAACAAAACf6jT4KJh7l73jYE00Bd9nPcPAh+lDtjWU7OSHK8yNhwAAAAAOgAAAAAIAACAAAAALMK4tbRrIaBGk5FsXzP0boFA5qWzyQKy386xnLZ2+4pAAAABNYilMsJtZZ+tM+9K95NQrT5BwLJ33Y2HoHYPa8hupu4mTP3OUeWS8px8i6WklN9ThgdGhyo4wu1fd8OWBY9LPtA5wlNC26wSYs8rZVhM6JhBHJo4prs6EmEEbneP+QRmyf9cXAgB0lOi6oAJvbS/ClwSU9I/66NSZ8Q0GT+Y4NSxnwm+zVYW/9MyTbLeHPH9AAAAAR6UvscPSruavwBhWBWYBzz5nMXmER76yIM9NRll6mxlR8meIE6n86M98gC22bUSNaIMooxVmR+U7VQ5l9tVqSA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">14</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">23</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{25510B0B-7AB6-49E7-9219-1153EBA64F46}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{CE59C79A-C37D-404C-BF07-DF6A4E7603FA}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -78,7 +78,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\Datos financieros.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_uno_dmd\Datos financieros.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -93,7 +93,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\Datos financieros.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_uno_dmd\Datos financieros.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -166,7 +166,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\Datos financieros.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_uno_dmd\Datos financieros.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
